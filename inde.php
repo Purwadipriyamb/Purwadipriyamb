@@ -85,7 +85,8 @@ th, td {
 </style>
 <table style='width:294px'>
 	<tr>
-    <th rowspan='4'> <img src='gambar/".$r['gambar']."' height='90px' width='115px'></th><td>    ".$r['nama_produk']."</td></tr>
+    <th rowspan='4'> <img src='gambar/".$r['gambar']."' height='90px' width='115px'></th><td>
+    ".$r['nama_produk']."</td></tr>
     <tr>
 	<td>              ".$r['nama_kategori']."</td>
 	</tr>
@@ -93,7 +94,8 @@ th, td {
     <td>              ".$r['ukuran']."</td>
 	</tr>
     <tr>
-    <td>              IDR ".$r['harga']." ,00-,    <a href='Transaksi.php?id=".$r['id_produk']."'><input type='button' value='Beli'></a></td>
+    <td>              IDR ".$r['harga']." ,00-,    
+    <a href='Transaksi.php?id=".$r['id_produk']."'><input type='button' value='Beli'></a></td>
 	</tr>
 </table>
 ";
@@ -108,8 +110,10 @@ echo"
 
 <tr>
 <td colspan='2' style='background-color:#4169E1;text-align:center;'>
-<a href='Gmail.com'><input type='button' value='@E-mail'></input></a><font size='4'> Kami Dan Add </font><a href='facebook.com'> <img src='gambar/fb.png' height='21' width='21'></a><font size='4'> Kami</font>
-<marquee behavior=alternate loop=15><h4>Copyright © BeliAjah.co.id 2015</h4></marquee>
+<a href='Gmail.com'><input type='button' value='@E-mail'></input></a>
+<font size='4'> Kami Dan Add </font><a href='facebook.com'> 
+<img src='gambar/fb.png' height='21' width='21'></a><font size='4'> Kami</font>
+<marquee behavior=alternate loop=15><h4>Copyright Â© BeliAjah.co.id 2015</h4></marquee>
 </td>
 </tr>
 </table></center>
