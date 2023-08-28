@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Purwadipriyamb
-- 👀 I’m interested in ...software fullstack frontend backend
+- 👀 I’m interested in ...software fullstack frontend
 - 🌱 I’m currently learning ...react,frontend,backend,css,php,javascript
 - 💞️ I’m looking to collaborate on ...web,android
 - 📫 How to reach me ...IG/FB/linkedin
