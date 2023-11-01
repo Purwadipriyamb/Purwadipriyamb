@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Purwadipriyamb
 - 👀 I’m interested in ...software fullstack frontend backend UI/UX programming. data, OOP, software house,
-- 🌱 I’m currently learning ...react,frontend,backend,css,php,javascript,laravel,swift,tailwind,vue,vercel,node,apache,sql,database,API,server,xampp,wamp,CRUD.
+- 🌱 I’m currently learning ...react,frontend,backend,css,php,javascript,laravel,swift,tailwind,vue,vercel,node,apache,sql,database,API,server,xampp,wamp,CRUD.bootstrap.
 - 💞️ I’m looking to collaborate on ...web,android,mobile app,ios,app desktop,machintosh..
-- 📫 How to reach me ...IG/FB/linkedin/stackoverflow
+- 📫 How to reach me ...IG/FB/linkedin/stackoverflow/upwork/twitter/gravatar/blogspot
 -Able to design with AutoCAD or Rhinoceros 3D/2D modeling. CAM/CAD.
 -Open to work to learn from new project. in teamwork. work alone.
 <!---
